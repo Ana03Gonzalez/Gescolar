@@ -18,6 +18,8 @@ try
          echo $e->getMessage();
 }
 ?>
+   <link href="css/estilos.css" type="text/css" rel="stylesheet" />
+    <?php include_once 'includes/cabecalho.php' ?> 
 <table>
    <thead>
       <tr>
